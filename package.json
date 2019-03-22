@@ -2,7 +2,7 @@
   "name": "nodejs-simple-restfull-test-with-mocha",
   "version": "0.0.0",
   "private": true,
-  "author-name": "irfan maulana",
+  "author-name": "Kaushal Ghai",
   "author-mail": "mazipanneh@gmail.com",
   "scripts": {
 	"test" : "./node_modules/.bin/mocha"
